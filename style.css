@@ -1,0 +1,19 @@
+body{
+    font-family: 'Open Sans',sans-serif;
+    background-color: black;
+}
+#container{
+    width: 600px;
+    height: 460px;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bgImg.png);
+    margin: 2px auto;
+}
+#calculator{
+    width: 230px;
+    height: 430px;
+    background-color: #eaedef;
+    margin: 0 auto;
+    top: 10px;
+    position: relative;
+    border-radius: 5px;
+}
