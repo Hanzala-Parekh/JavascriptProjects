@@ -5,7 +5,7 @@ body{
 #container{
     width: 600px;
     height: 460px;
-    background-image: url(pract.jpg);
+    background-image: url(bgImg.png);
     margin: 2px auto;
 }
 #calculator{
@@ -62,4 +62,24 @@ body{
 }
 .operator:focus, .number:focus, .empty:focus{
     outline: 0;
+}
+button:nth-child(4){
+    font-size: 20px;
+    background-color: #008080;
+}
+button:nth-child(8){
+    font-size: 20px;
+    background-color: #FF4500;
+}    
+button:nth-child(12){
+    font-size: 20px;
+    background-color: #BC8F8F;
+}
+button:nth-child(16){
+    font-size: 20px;
+    background-color: #800080;
+}
+button:nth-child(20){
+    font-size: 20px;
+    background-color: #00FA9A;
 }
