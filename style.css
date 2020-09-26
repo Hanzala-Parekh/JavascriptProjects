@@ -2,11 +2,13 @@ body{
     font-family: 'Open Sans',sans-serif;
     background-color: black;
 }
+
 #container{
-    width: 600px;
-    height: 460px;
-    background-image: url(bgImg.png);
-    margin: 2px auto;
+    width: 700px;
+    height: 490px;
+    background-image: url(testing.jpg);
+    /* background-repeat: no-repeat; */
+    margin: 3px 3px;
 }
 #calculator{
     width: 220px;
